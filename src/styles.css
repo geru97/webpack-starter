@@ -1,0 +1,9 @@
+html, body{
+    margin: 0;
+    background-color: rgb(28, 5, 50);
+    color: brown;
+}
+
+img{
+    width: 280px;
+}
